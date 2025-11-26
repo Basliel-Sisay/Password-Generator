@@ -5,6 +5,10 @@
 This project is a simple Random Password Generator built with HTML, CSS, and TypeScript.
 It allows users to specify the desired password length and generates a secure random password containing lowercase letters, uppercase letters, numbers, and symbols.
 
+<h2>Screenshot of the project UI</h2>
+
+![Password Generator Screenshot](https://i.ibb.co/6R53ZhrT/Screenshot-2025-11-26-205147.png)
+
 <h3>The project demonstrates:</h3>
 
 - DOM manipulation with TypeScript
